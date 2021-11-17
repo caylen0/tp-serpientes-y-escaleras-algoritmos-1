@@ -1,5 +1,7 @@
 import random
 
+#LO QYE GACE LE HUFADOR
+
 def casillero_cascara_de_banana(posicion_jugador: int) -> int:  # le resta 20 a la posicion del jugador
 	posicion_jugador = posicion_jugador - 20
 	return posicion_jugador
